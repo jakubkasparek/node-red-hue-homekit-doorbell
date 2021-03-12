@@ -14,8 +14,12 @@ https://youtu.be/CpSQrBIdOHY
 ```
 
 
-requered node-red plugin:<br>
+requered node-red pallete:<br>
+ode-red-contrib-huemagic
 https://github.com/Foddy/node-red-contrib-huemagic
+<br><br>
+node-red-contrib-homekit-bridged
+https://github.com/NRCHKB/node-red-contrib-homekit-bridged#readme
 
 
 <p align="center">
