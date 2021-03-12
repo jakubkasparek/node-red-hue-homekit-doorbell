@@ -1,7 +1,7 @@
 # node-red-hue-homekit-doorbell
 my simple flow to have Apple Homekit native doorbell, by Philips Hue Smart Button.
 
-video:
+video:<br>
 https://youtu.be/CpSQrBIdOHY
 
 
@@ -11,7 +11,7 @@ https://youtu.be/CpSQrBIdOHY
 ```
 
 
-requered node-red plugin:
+requered node-red plugin:<br>
 https://github.com/Foddy/node-red-contrib-huemagic
 
 
