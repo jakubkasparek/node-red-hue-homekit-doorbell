@@ -15,7 +15,7 @@ https://youtu.be/CpSQrBIdOHY
 
 
 requered node-red pallete:<br>
-<b>ode-red-contrib-huemagic</b><br>
+<b>onde-red-contrib-huemagic</b><br>
 https://github.com/Foddy/node-red-contrib-huemagic
 <br><br>
 <b>node-red-contrib-homekit-bridged</b<br>
