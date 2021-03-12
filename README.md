@@ -4,6 +4,7 @@ my simple flow to have Apple Homekit native doorbell, by Philips Hue Smart Butto
 video:<br>
 https://youtu.be/CpSQrBIdOHY
 
+<img width="790" alt="Snímek obrazovky 2021-03-12 v 16 12 09" src="https://user-images.githubusercontent.com/49455498/110959179-bb1ea400-834d-11eb-9de8-92df382809a3.png">
 
 <b>my node-red flow:</b>
 
