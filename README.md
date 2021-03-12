@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/49455498/110968228-92031100-8357-11eb-922a-597e6f932c99.png">
+  <img src="https://user-images.githubusercontent.com/49455498/110968228-92031100-8357-11eb-922a-597e6f932c99.png" width=50%>
 </p>
 
 ![doorbellpng]()
