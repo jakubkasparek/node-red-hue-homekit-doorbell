@@ -14,6 +14,7 @@ https://github.com/Foddy/node-red-contrib-huemagic
 
 
 <p align="center">
-  <img src="https://photos5.appleinsider.com/gallery/38241-72550-homepod-and-homepod-mini-xl.jpg" width="350" title="hover text">
-  <img src="https://www.assets.signify.com/is/image/PhilipsLighting/897cd5ae9bfa432b9a47ac2400a9d89b" width="350" alt="accessibility text">
+  
+  <img src="https://www.assets.signify.com/is/image/PhilipsLighting/897cd5ae9bfa432b9a47ac2400a9d89b" width="350" alt="Philips Hue Smart Button">
+  <img src="https://photos5.appleinsider.com/gallery/38241-72550-homepod-and-homepod-mini-xl.jpg" width="350" title="any HomePod">
 </p>
