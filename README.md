@@ -15,12 +15,12 @@ https://youtu.be/CpSQrBIdOHY
 
 
 requered node-red pallete:<br>
-ode-red-contrib-huemagic
+<b>ode-red-contrib-huemagic</b><br>
 https://github.com/Foddy/node-red-contrib-huemagic
 <br><br>
-node-red-contrib-homekit-bridged
+<b>node-red-contrib-homekit-bridged</b<br>
 https://github.com/NRCHKB/node-red-contrib-homekit-bridged#readme
-
+<br><br><br><br>
 
 <p align="center">
   
