@@ -11,3 +11,8 @@ my simple flow to have Apple Homekit native doorbell, by Philips Hue Smart Butto
 
 requered node-red plugin:
 https://github.com/Foddy/node-red-contrib-huemagic
+
+
+![caption](https://photos5.appleinsider.com/gallery/38241-72550-homepod-and-homepod-mini-xl.jpg)
+![caption](https://www.assets.signify.com/is/image/PhilipsLighting/897cd5ae9bfa432b9a47ac2400a9d89b)
+
