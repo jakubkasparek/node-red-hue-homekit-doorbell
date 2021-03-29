@@ -23,7 +23,7 @@ requered node-red pallete:<br>
 <b>nonde-red-contrib-huemagic</b><br>
 https://github.com/Foddy/node-red-contrib-huemagic
 <br><br>
-<b>node-red-contrib-homekit-bridged</b<br>
+<b>node-red-contrib-homekit-bridged</b><br>
 https://github.com/NRCHKB/node-red-contrib-homekit-bridged#readme
 <br><br><br><br>
 
