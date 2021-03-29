@@ -21,10 +21,10 @@ https://youtu.be/CpSQrBIdOHY
 
 requered node-red pallete:<br>
 <b>node-red-contrib-huemagic</b><br>
-https://github.com/Foddy/node-red-contrib-huemagic
+https://flows.nodered.org/node/node-red-contrib-deconz
 <br><br>
 <b>node-red-contrib-homekit-bridged</b><br>
-https://github.com/NRCHKB/node-red-contrib-homekit-bridged#readme
+https://flows.nodered.org/node/@plasma2450/node-red-contrib-homekit-bridged
 <br><br><br><br>
 
 
